@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 40px;
+
+  background-color: rgb(9, 157, 190);
+  color: white;
+  font-size: 36px;
+}
+
+.main {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 60px;
+}
+
+.info {
+  position: absolute;
+  top: 0;
+  left: 20%;
+}
